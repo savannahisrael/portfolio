@@ -55,23 +55,17 @@ body {
   }
 
 
-
-/* #largeCircle img {
-    animation: big-spin 120s linear infinite; 
-}
-@keyframes big-spin {
-      transform: rotate(360deg); } */
-
 .title {
     color: rgba(0, 0, 0, 0.82);
     font-family: acier-bat-solid, sans-serif;
     text-align: left;
+    font-size: 7vh;
 }
 
 .text {
     color: rgba(0, 0, 0, 0.82);
-    font-size: 1em;
-    line-height: 1.1;
+    font-size: 3vh;
+    line-height: 3vh;
     font-family: futura-pt, sans-serif;
     text-align: left;
 }
