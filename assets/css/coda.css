@@ -987,7 +987,7 @@
 ------------------------------------------------------ */
 
     .section-header {
-      margin-bottom: 82px;
+      margin-bottom: 10%;
     }
 
     .section-header .description {
@@ -1045,6 +1045,7 @@
     /* ------------------------------------------------------
         3.2.2. Portfolio filter item
     ------------------------------------------------------ */
+        
 
         .filter-container .filter-item {
           padding-top: 30px;
@@ -1472,6 +1473,7 @@
 
     .section.contacts-section {
       padding: 150px 0 143px;
+      margin: 0 auto;
     }
 
     /* ------------------------------------------------------
